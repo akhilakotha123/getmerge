@@ -10,8 +10,13 @@ public class Calc {
 	{
 		System.out.println("Diff="+(a-b));
 	}
+
 	public void mul(int a,int b)
 	{
 		System.out.println("mul="+(a*b));
+  }
+	public void div(int a,int b)
+	{
+		System.out.println("Div="+(a/b));
 	}
 }
