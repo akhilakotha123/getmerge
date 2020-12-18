@@ -7,7 +7,7 @@ public class Calc {
 	}
 	public void diff(int a,int b)
 	{
-		System.out.println("Differenece="+(a-b));
+		System.out.println("Diff="+(a-b));
 	}
 	
 }
